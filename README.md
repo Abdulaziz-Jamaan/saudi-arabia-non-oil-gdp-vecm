@@ -1,3 +1,5 @@
+full code https://nbviewer.org/github/Abdulaziz-Jamaan/saudi-arabia-non-oil-gdp-vecm/blob/main/saudi-arabia-fdi-capex-vecm.ipynb
+
 # Dynamics of Non-Oil Government Capital Expenditure and FDI in Driving Real Economic Growth in Saudi Arabia
 
 An advanced macroeconometric project implementing a **Vector Error Correction Model (VECM)** to analyze the structural transmission channels of fiscal allocations and international private capital under Saudi Vision 2030.
